@@ -9,3 +9,6 @@ if (angka % 2) == 0:
     st.write(f"{angka} adalah bilangan genap")
 else:
     st.write(f"{angka} adalah bilangan ganjil")
+
+st.image("IMG_3947.jpeg")
+st.image("IMG_3952.jpeg")
